@@ -1,0 +1,23 @@
+{
+  "demo": {
+    "password": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "email": "demo@stockanalytics.com",
+    "created_at": "2026-03-19 11:43:07",
+    "watchlist": [
+      "AAPL",
+      "MSFT",
+      "TSLA",
+      "GOOGL"
+    ]
+  },
+  "Monisha": {
+    "password": "3f0e506a3aa30ed8b0380e784a60be4da763d2dbf5aa610f7de48c9e77ce6ba7",
+    "email": "monishaseet6816@gmail.com",
+    "created_at": "2026-03-19 11:44:59",
+    "watchlist": [
+      "AAPL",
+      "MSFT",
+      "TSLA"
+    ]
+  }
+}
